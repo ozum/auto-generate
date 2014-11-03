@@ -43,7 +43,7 @@ var Project = sequelize.define('Project', {
 });
 
 // 253792a6b07b0bbaa72526687b374cba You can edit safely after auto end.
-//!-AGE--------------jsdo---------- Auto End: Project Model ------------------------
+//!-AGE------------------------ Auto End: Project Model ------------------------
 ```
 
 Other parts of the auto generated file may be edited by hand. Next time you want to update the part, this module
