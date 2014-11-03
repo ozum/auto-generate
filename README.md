@@ -9,7 +9,7 @@ If you are writing code generators, you can use this module to inject your auto 
 
 #Install
 
-npm install auto-generate;
+    npm install auto-generate;
 
 #Usage
 
