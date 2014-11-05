@@ -1,6 +1,6 @@
 {
   "name": "auto-generate",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Creates or updates parts of JS files with given content",
   "main": "lib/auto-generate.js",
   "scripts": {
@@ -11,12 +11,12 @@
     "generator"
   ],
   "author": {
-    "name" : "Özüm Eldoğan",
-    "url" : "http://www.fortibase.com"
+    "name": "Özüm Eldoğan",
+    "url": "http://www.fortibase.com"
   },
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/ozum/auto-generate.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ozum/auto-generate.git"
   },
   "license": "ISC",
   "dependencies": {
