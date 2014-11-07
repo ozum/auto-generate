@@ -1,6 +1,6 @@
 {
   "name": "auto-generate",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Creates or updates parts of JS files with given content",
   "main": "lib/auto-generate.js",
   "scripts": {
