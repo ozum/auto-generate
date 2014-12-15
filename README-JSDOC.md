@@ -48,7 +48,4 @@ var Project = sequelize.define('Project', {
 Other parts of the auto generated file may be edited by hand. Next time you want to update the part, this module
 finds the part and checks if inside of the part is changed, then updates the part according to given options.
 
-## JSDOC Output
-
-I added both jsdox and jsdoc2md output below
 
