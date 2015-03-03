@@ -26,7 +26,7 @@
   },
   "devDependencies": {
     "chai": "^1.9.2",
-    "ink-docstrap": "^0.4.12",
+    "ink-docstrap": "^0.5.2",
     "mocha": "^2.0.1",
     "rewire": "^2.1.1",
     "rimraf": "^2.2.8"

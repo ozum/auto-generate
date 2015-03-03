@@ -4,7 +4,7 @@
     "encoding": "utf8",
     "destination": "./doc/",
     "recurse": true,
-    "private": true
+    "private": false
   },
   "tags": {
     "allowUnknownTags": true
@@ -15,6 +15,10 @@
     "excludePattern": "(^|\\/|\\\\)_"
   },
   "plugins"   : ["plugins/markdown"],
+  "i18n": {
+    "locale": "<en_US|tr_TR>",
+    "extension": ".js"
+  },
   "templates" : {
     "cleverLinks"           : false,
     "monospaceLinks"        : false,
